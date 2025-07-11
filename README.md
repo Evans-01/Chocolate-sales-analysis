@@ -95,11 +95,3 @@ The dashboard is powered by a star schema model structured as follows:
 - Sales peaked during **Jan 2024**, highlighting a possible seasonality trend.
 
 ---
-
-## 📥 Contributions
-
-Feel free to fork, modify, or submit improvements via Pull Requests.
-
----
-
-
