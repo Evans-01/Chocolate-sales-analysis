@@ -21,9 +21,8 @@ Key metrics covered:
 
 ## 🖼️ Dashboard Preview
 
-> _Insert your dashboard image here_
 
-![Sales Dashboard for Chocolates](Chocolate Dashboard.png)
+![Sales Dashboard for Chocolates](https://github.com/Evans-01/Chocolate-sales-analysis/blob/da046daa5ef33e0e168c3c0ed78063276d605390/Chocolate%20Dashboard.png)
 
 ---
 
@@ -51,9 +50,8 @@ Key metrics covered:
 
 ## 🗃️ Data Model
 
-> _Insert your data model image here_
 
-![Data Model Diagram](<INSERT IMAGE PATH HERE>)
+![Data Model Diagram](https://github.com/Evans-01/Chocolate-sales-analysis/blob/da046daa5ef33e0e168c3c0ed78063276d605390/Data%20Modeling.png)
 
 The dashboard is powered by a star schema model structured as follows:
 
