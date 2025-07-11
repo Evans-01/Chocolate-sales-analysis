@@ -23,7 +23,7 @@ Key metrics covered:
 
 > _Insert your dashboard image here_
 
-![Sales Dashboard for Chocolates](<INSERT IMAGE PATH HERE>)
+![Sales Dashboard for Chocolates](Chocolate Dashboard.png)
 
 ---
 
